@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "294691631273",
+    "firebase_url": "https://appnhacnhocongviec.firebaseio.com",
+    "project_id": "appnhacnhocongviec",
+    "storage_bucket": "appnhacnhocongviec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294691631273:android:6e98bceb8bcce5a2",
+        "android_client_info": {
+          "package_name": "com.example.android.nhacnhocongviec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294691631273-n3h4ireif95nf4cm02am4dnpk0ovp3u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVex0y9UCiZKOcpnhCo7U3Tl-7i1mraDE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294691631273:android:1d59c7783d816466",
+        "android_client_info": {
+          "package_name": "com.example.android.remider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294691631273-n3h4ireif95nf4cm02am4dnpk0ovp3u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVex0y9UCiZKOcpnhCo7U3Tl-7i1mraDE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
